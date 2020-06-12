@@ -1,2 +1,2 @@
-# ghostpost
+
 # django_mptt
